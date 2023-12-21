@@ -1,0 +1,43 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  /* フォントサイズ変更 */
+  font-size: 20px;
+  /* 全体を中央寄せする */
+  text-align: center;
+}
+
+ .google-fonts{
+  /* ここにGoogle Fontsを指定します*/
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  /* フォントサイズ変更 */
+  font-size:  2rem;
+  /* 文字の間隔を文字の大きさの1.2倍 */
+  letter-spacing: 1.2em;
+  /* 影を付ける */
+  text-shadow: 1px 1px 2px gray;
+  /* 下に黒線を入れる */
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+#basic{
+  font-weight: bold;
+}
+.text-skyblue{
+  color: skyblue;
+}
+
+.text-pink{
+  color: rgb(255, 192, 203);
+}
+
+
+
+
+
+
+
+
+
+
+
