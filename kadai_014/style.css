@@ -1,15 +1,18 @@
+html{
+   /* フォントサイズ変更 */
+  font-size: 125%;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  /* フォントサイズ変更 */
-  font-size: 20px;
+ 
   /* 全体を中央寄せする */
   text-align: center;
 }
 
- .google-fonts{
+h1 {
   /* ここにGoogle Fontsを指定します*/
   font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Noto Sans JP', sans-serif;
   /* フォントサイズ変更 */
   font-size:  2rem;
   /* 文字の間隔を文字の大きさの1.2倍 */
@@ -20,7 +23,7 @@ body {
   border-bottom: solid 3px rgb(115, 115, 114);
 }
 
-#basic{
+#basic p {
   font-weight: bold;
 }
 .text-skyblue{
